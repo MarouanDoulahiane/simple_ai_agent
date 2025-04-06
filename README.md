@@ -6,7 +6,7 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Ollama](https://img.shields.io/badge/Ollama-compatible-green)](https://ollama.ai/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Stars](https://img.shields.io/github/stars/yourusername/LabPiPe?style=social)](https://github.com/yourusername/LabPiPe/stargazers)
+[![Stars](https://img.shields.io/github/stars/marouandoulahiane/LabPiPe?style=social)](https://github.com/marouandoulahiane/LabPiPe/stargazers)
 
 **Run powerful AI agents locally with your own models - No API keys, no cloud dependency, full privacy**
 
@@ -61,7 +61,7 @@ Perfect for developers who want to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/LabPiPe.git
+git clone https://github.com/marouandoulahiane/simple_ai_agent.git
 cd LabPiPe
 ```
 
@@ -164,7 +164,7 @@ For detailed documentation on:
 - [Supported Models](docs/models.md)
 - [Advanced Configuration](docs/configuration.md)
 
-Visit our [Wiki](https://github.com/yourusername/LabPiPe/wiki) for tutorials and examples.
+Visit our [Wiki](https://github.com/marouandoulahiane/LabPiPe/wiki) for tutorials and examples.
 
 ## 👥 Contributing
 
@@ -194,7 +194,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
     <p><b>Star this repo if you found it useful!</b></p>
     <p>
-        <a href="https://github.com/yourusername/LabPiPe/issues">Report Bug</a> •
-        <a href="https://github.com/yourusername/LabPiPe/issues">Request Feature</a>
+        <a href="https://github.com/marouandoulahiane/LabPiPe/issues">Report Bug</a> •
+        <a href="https://github.com/marouandoulahiane/LabPiPe/issues">Request Feature</a>
     </p>
 </div>
